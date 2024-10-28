@@ -1,4 +1,4 @@
-# 10 Academy: Artificial Intelligence Mastery Program - Week 7 Challenge
+
 
 ## Project: Building a Data Warehouse for Ethiopian Medical Business Data
 
