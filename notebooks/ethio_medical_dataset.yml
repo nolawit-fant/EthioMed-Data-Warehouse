@@ -1,0 +1,18 @@
+# ethio_medical_dataset.yml
+# path: ../data
+train: ../data/train/images  # Path to the training set
+val: ../data/valid/images # Path to the validation set
+
+# Classes
+nc: 8  # Number of classes
+names: [
+  'cosmotic',
+  'food-package', 
+  'supliment', 
+  'formula-milk', 
+  'lotion-moisturizer', 
+  'medicine', 
+  'mini-drop', 
+  'pregnancy', 
+  'other'
+  ]  # Class names
